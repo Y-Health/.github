@@ -20,4 +20,4 @@ Explore our repositories to discover projects focused on digital health, data an
 
 We welcome contributions from developers, researchers, and health professionals. Check out our repositories, open issues, and join the conversation!
 
-🌐 [Visit our website](https://www.linkedin.com/company/yonkers-health-corporation/)
+🌐 [Visit our website](https://yonkers-health.com/) | [Visit our LinkedIn] (https://www.linkedin.com/company/yonkers-health-corporation/)
