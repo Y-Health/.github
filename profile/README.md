@@ -1,9 +1,5 @@
 # Welcome to Yonkers-Health
 
-> Empowering communities through innovative health technology.
-
----
-
 ## About Us
 
 Yonkers-Health is dedicated to advancing healthcare solutions through open-source technology and collaborative innovation. Our mission is to make health resources accessible, reliable, and impactful for everyone.
