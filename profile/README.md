@@ -1,5 +1,27 @@
-Welcome to the Y-Health GitHub page!
+# Welcome to Yonkers-Health
 
-To learn more about us as an organization, check out https://www.linkedin.com/company/yonkers-health-corporation/
+> Empowering communities through innovative health technology.
 
-To learn more about the projects we work on here at check out our repositories below :arrow_down:
+---
+
+## About Us
+
+Yonkers-Health is dedicated to advancing healthcare solutions through open-source technology and collaborative innovation. Our mission is to make health resources accessible, reliable, and impactful for everyone.
+
+## Our Mission
+
+- **Accessibility:** Making health tools available to all.
+- **Innovation:** Driving progress with cutting-edge technology.
+- **Collaboration:** Building a global community of contributors and partners.
+
+## Projects
+
+Explore our repositories to discover projects focused on digital health, data analytics, and community wellness.
+
+👉 [View all Y-Health repositories](https://github.com/Y-Health?tab=repositories)
+
+## Get Involved
+
+We welcome contributions from developers, researchers, and health professionals. Check out our repositories, open issues, and join the conversation!
+
+🌐 [Visit our website](https://www.linkedin.com/company/yonkers-health-corporation/)
